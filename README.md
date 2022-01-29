@@ -4,7 +4,7 @@
   - Programming languages: Java, Python, Javascript, Go
   - Frameworks: Spring, Hibernate, Bootstrap
 - 🌱 I’m currently learning
-  - AWS, Jenkins, docker
+  - AWS, Jenkins
 - 💞️ I’m looking to collaborate on
   - Currently not working on open-source projects
 - 📫 How to reach me: linkedin.com/in/david-han-z-090a3979
